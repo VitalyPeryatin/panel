@@ -77,7 +77,7 @@ export const CLIENTS: Client[] = [
             ios: 'https://apps.apple.com/us/app/happ-proxy-utility/id6504287215',
             macos: 'https://apps.apple.com/us/app/happ-proxy-utility/id6504287215',
             windows:
-                'https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x86.exe',
+                'https://github.com/Happ-proxy/happ-desktop/releases/latest/download/setup-Happ.x64.exe',
             linux: 'https://github.com/Happ-proxy/happ-desktop/releases/'
         },
         links: {
